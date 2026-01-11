@@ -23,7 +23,7 @@
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **Sí**
 
-- 📝 I regularly write articles on I regularly write articles on [my website](https://snowclik-blog.vercel.app/) about many things I like.
+- 📝 most recent project  [my website](https://runningpanama.vercel.app/)
 
 - 💬 Ask me about **react, c, html, discord**
 
@@ -110,3 +110,4 @@
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
