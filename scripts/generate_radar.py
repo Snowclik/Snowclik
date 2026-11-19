@@ -132,7 +132,7 @@ def fetch_via_graphql(user: str, token: str) -> dict[str, object]:
         "langs": langs,
         "repos": repos_count,
         "stars": stars,
-        "metric_3_label": "COMMITS (1A)",
+        "metric_3_label": "COMMITS",
         "metric_3_val": str(commits),
         "metric_4_label": "PULL REQUESTS" if prs > 0 else "DESDE",
         "metric_4_val": str(prs) if prs > 0 else since_year,
