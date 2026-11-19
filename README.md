@@ -19,18 +19,18 @@ Mi enfoque prioriza la **claridad estructural, el tipado estricto y el rendimien
 <p align="center">
   <b>Frontend, Web &amp; UI</b><br /><br />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,astro,nextjs,tailwind,threejs,vite,html,css&amp;perline=10&amp;theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,react,astro,nextjs,tailwind,threejs,vite,html,css&amp;perline=10&amp;theme=light" />
-    <img src="https://skillicons.dev/icons?i=ts,js,react,astro,nextjs,tailwind,threejs,vite,html,css&amp;perline=10&amp;theme=dark" alt="Frontend Stack" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Castro%2Cnextjs%2Ctailwind%2Cthreejs%2Cvite%2Chtml%2Ccss&amp;perline=10&amp;theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Castro%2Cnextjs%2Ctailwind%2Cthreejs%2Cvite%2Chtml%2Ccss&amp;perline=10&amp;theme=light" />
+    <img src="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Castro%2Cnextjs%2Ctailwind%2Cthreejs%2Cvite%2Chtml%2Ccss&amp;perline=10&amp;theme=dark" alt="Frontend Stack" />
   </picture>
 </p>
 
 <p align="center">
   <b>Backend, Nativo, Datos &amp; Entorno</b><br /><br />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tauri,rust,python,cs,nodejs,supabase,sqlite,git,github,pnpm,linux&amp;perline=11&amp;theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=tauri,rust,python,cs,nodejs,supabase,sqlite,git,github,pnpm,linux&amp;perline=11&amp;theme=light" />
-    <img src="https://skillicons.dev/icons?i=tauri,rust,python,cs,nodejs,supabase,sqlite,git,github,pnpm,linux&amp;perline=11&amp;theme=dark" alt="Backend and Native Stack" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tauri%2Crust%2Cpython%2Ccs%2Cnodejs%2Csupabase%2Csqlite%2Cgit%2Cgithub%2Cpnpm%2Clinux&amp;perline=11&amp;theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=tauri%2Crust%2Cpython%2Ccs%2Cnodejs%2Csupabase%2Csqlite%2Cgit%2Cgithub%2Cpnpm%2Clinux&amp;perline=11&amp;theme=light" />
+    <img src="https://skillicons.dev/icons?i=tauri%2Crust%2Cpython%2Ccs%2Cnodejs%2Csupabase%2Csqlite%2Cgit%2Cgithub%2Cpnpm%2Clinux&amp;perline=11&amp;theme=dark" alt="Backend and Native Stack" />
   </picture>
 </p>
 
