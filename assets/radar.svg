@@ -64,49 +64,49 @@
 
   <polygon points="205.0,195.0 228.4,208.5 228.4,235.5 205.0,249.0 181.6,235.5 181.6,208.5" fill="none" stroke="#1E293B" stroke-width="1" stroke-dasharray="3 3"/><polygon points="205.0,168.0 251.8,195.0 251.8,249.0 205.0,276.0 158.2,249.0 158.2,195.0" fill="none" stroke="#1E293B" stroke-width="1" stroke-dasharray="3 3"/><polygon points="205.0,141.0 275.1,181.5 275.1,262.5 205.0,303.0 134.9,262.5 134.9,181.5" fill="none" stroke="#1E293B" stroke-width="1" stroke-dasharray="3 3"/><polygon points="205.0,114.0 298.5,168.0 298.5,276.0 205.0,330.0 111.5,276.0 111.5,168.0" fill="none" stroke="#1E293B" stroke-width="1"/>
   <line x1="205.0" y1="222.0" x2="205.0" y2="114.0" stroke="#1E293B" stroke-width="1"/><line x1="205.0" y1="222.0" x2="298.5" y2="168.0" stroke="#1E293B" stroke-width="1"/><line x1="205.0" y1="222.0" x2="298.5" y2="276.0" stroke="#1E293B" stroke-width="1"/><line x1="205.0" y1="222.0" x2="205.0" y2="330.0" stroke="#1E293B" stroke-width="1"/><line x1="205.0" y1="222.0" x2="111.5" y2="276.0" stroke="#1E293B" stroke-width="1"/><line x1="205.0" y1="222.0" x2="111.5" y2="168.0" stroke="#1E293B" stroke-width="1"/>
-  <polygon class="rp" points="205.0,114.0 278.8,179.4 246.4,245.9 205.0,264.7 172.6,240.7 176.3,205.4" fill="url(#poly-fill)" fill-opacity="0.26" stroke="#38BDF8" stroke-width="2" stroke-linejoin="round"/>
-  <text x="205.0" y="99.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#CBD5E1">TypeScript</text><text x="314.1" y="162.5" text-anchor="start" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#CBD5E1">Python</text><text x="314.1" y="288.5" text-anchor="start" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#CBD5E1">HTML</text><text x="205.0" y="351.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#CBD5E1">JavaScript</text><text x="95.9" y="288.5" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#CBD5E1">CSS</text><text x="95.9" y="162.5" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#CBD5E1">Kotlin</text>
+  <polygon class="rp" points="205.0,114.0 278.8,179.4 263.4,255.7 205.0,269.8 167.9,243.4 168.1,200.7" fill="url(#poly-fill)" fill-opacity="0.26" stroke="#38BDF8" stroke-width="2" stroke-linejoin="round"/>
+  <text x="205.0" y="99.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#CBD5E1">TypeScript</text><text x="314.1" y="162.5" text-anchor="start" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#CBD5E1">Python</text><text x="314.1" y="288.5" text-anchor="start" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#CBD5E1">Kotlin</text><text x="205.0" y="351.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#CBD5E1">HTML</text><text x="95.9" y="288.5" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#CBD5E1">Rust</text><text x="95.9" y="162.5" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#CBD5E1">JavaScript</text>
   <g class="pt">
         <circle cx="205.0" cy="114.0" r="11" fill="transparent"/>
         <circle class="dot" cx="205.0" cy="114.0" r="4.2" fill="#38BDF8" stroke="#070B14" stroke-width="1.5"/>
         <g class="tip">
           <rect x="149.0" y="84.0" width="112.0" height="22" rx="6" fill="#0F172A" stroke="#38BDF8" stroke-width="1"/>
-          <text x="205.0" y="98.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" font-weight="600" fill="#F8FAFC">TypeScript · 55.3%</text>
+          <text x="205.0" y="98.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" font-weight="600" fill="#F8FAFC">TypeScript · 46.8%</text>
         </g>
       </g><g class="pt">
         <circle cx="278.8" cy="179.4" r="11" fill="transparent"/>
         <circle class="dot" cx="278.8" cy="179.4" r="4.2" fill="#A78BFA" stroke="#070B14" stroke-width="1.5"/>
         <g class="tip">
           <rect x="236.4" y="149.4" width="84.8" height="22" rx="6" fill="#0F172A" stroke="#A78BFA" stroke-width="1"/>
-          <text x="278.8" y="163.9" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" font-weight="600" fill="#F8FAFC">Python · 30.5%</text>
+          <text x="278.8" y="163.9" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" font-weight="600" fill="#F8FAFC">Python · 25.8%</text>
         </g>
       </g><g class="pt">
-        <circle cx="246.4" cy="245.9" r="11" fill="transparent"/>
-        <circle class="dot" cx="246.4" cy="245.9" r="4.2" fill="#F87171" stroke="#070B14" stroke-width="1.5"/>
+        <circle cx="263.4" cy="255.7" r="11" fill="transparent"/>
+        <circle class="dot" cx="263.4" cy="255.7" r="4.2" fill="#C084FC" stroke="#070B14" stroke-width="1.5"/>
         <g class="tip">
-          <rect x="204.4" y="215.9" width="84.0" height="22" rx="6" fill="#0F172A" stroke="#F87171" stroke-width="1"/>
-          <text x="246.4" y="230.4" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" font-weight="600" fill="#F8FAFC">HTML · 5.7%</text>
+          <rect x="221.0" y="225.7" width="84.8" height="22" rx="6" fill="#0F172A" stroke="#C084FC" stroke-width="1"/>
+          <text x="263.4" y="240.2" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" font-weight="600" fill="#F8FAFC">Kotlin · 13.7%</text>
         </g>
       </g><g class="pt">
-        <circle cx="205.0" cy="264.7" r="11" fill="transparent"/>
-        <circle class="dot" cx="205.0" cy="264.7" r="4.2" fill="#FACC15" stroke="#070B14" stroke-width="1.5"/>
+        <circle cx="205.0" cy="269.8" r="11" fill="transparent"/>
+        <circle class="dot" cx="205.0" cy="269.8" r="4.2" fill="#F87171" stroke="#070B14" stroke-width="1.5"/>
         <g class="tip">
-          <rect x="149.0" y="234.7" width="112.0" height="22" rx="6" fill="#0F172A" stroke="#FACC15" stroke-width="1"/>
-          <text x="205.0" y="249.2" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" font-weight="600" fill="#F8FAFC">JavaScript · 3.8%</text>
+          <rect x="163.0" y="239.8" width="84.0" height="22" rx="6" fill="#0F172A" stroke="#F87171" stroke-width="1"/>
+          <text x="205.0" y="254.3" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" font-weight="600" fill="#F8FAFC">HTML · 4.8%</text>
         </g>
       </g><g class="pt">
-        <circle cx="172.6" cy="240.7" r="11" fill="transparent"/>
-        <circle class="dot" cx="172.6" cy="240.7" r="4.2" fill="#F472B6" stroke="#070B14" stroke-width="1.5"/>
+        <circle cx="167.9" cy="243.4" r="11" fill="transparent"/>
+        <circle class="dot" cx="167.9" cy="243.4" r="4.2" fill="#FB923C" stroke="#070B14" stroke-width="1.5"/>
         <g class="tip">
-          <rect x="130.6" y="210.7" width="84.0" height="22" rx="6" fill="#0F172A" stroke="#F472B6" stroke-width="1"/>
-          <text x="172.6" y="225.2" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" font-weight="600" fill="#F8FAFC">CSS · 2.3%</text>
+          <rect x="125.9" y="213.4" width="84.0" height="22" rx="6" fill="#0F172A" stroke="#FB923C" stroke-width="1"/>
+          <text x="167.9" y="227.9" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" font-weight="600" fill="#F8FAFC">Rust · 3.3%</text>
         </g>
       </g><g class="pt">
-        <circle cx="176.3" cy="205.4" r="11" fill="transparent"/>
-        <circle class="dot" cx="176.3" cy="205.4" r="4.2" fill="#C084FC" stroke="#070B14" stroke-width="1.5"/>
+        <circle cx="168.1" cy="200.7" r="11" fill="transparent"/>
+        <circle class="dot" cx="168.1" cy="200.7" r="4.2" fill="#FACC15" stroke="#070B14" stroke-width="1.5"/>
         <g class="tip">
-          <rect x="133.9" y="175.4" width="84.8" height="22" rx="6" fill="#0F172A" stroke="#C084FC" stroke-width="1"/>
-          <text x="176.3" y="189.9" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" font-weight="600" fill="#F8FAFC">Kotlin · 1.3%</text>
+          <rect x="112.1" y="170.7" width="112.0" height="22" rx="6" fill="#0F172A" stroke="#FACC15" stroke-width="1"/>
+          <text x="168.1" y="185.2" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" font-weight="600" fill="#F8FAFC">JavaScript · 3.2%</text>
         </g>
       </g>
 
@@ -120,54 +120,54 @@
         <rect class="hit" x="422" y="62.0" width="402" height="28" rx="6" fill="#38BDF8"/>
         <circle cx="439" cy="73.0" r="3.8" fill="#38BDF8"/>
         <text x="450" y="76.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#E2E8F0">TypeScript</text>
-        <text x="810" y="76.5" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#94A3B8">55.3%  ·  801.2 KB</text>
+        <text x="810" y="76.5" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#94A3B8">46.8%  ·  801.2 KB</text>
         <rect x="434.0" y="83.0" width="376.0" height="5" rx="2.5" fill="#151E2E"/>
-        <rect class="bf" style="animation-delay:0.00s" x="434.0" y="83.0" width="208.1" height="5" rx="2.5" fill="#38BDF8"/>
+        <rect class="bf" style="animation-delay:0.00s" x="434.0" y="83.0" width="175.8" height="5" rx="2.5" fill="#38BDF8"/>
       </g><g class="row">
         <rect class="hit" x="422" y="95.0" width="402" height="28" rx="6" fill="#38BDF8"/>
         <circle cx="439" cy="106.0" r="3.8" fill="#A78BFA"/>
         <text x="450" y="109.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#E2E8F0">Python</text>
-        <text x="810" y="109.5" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#94A3B8">30.5%  ·  441.8 KB</text>
+        <text x="810" y="109.5" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#94A3B8">25.8%  ·  441.8 KB</text>
         <rect x="434.0" y="116.0" width="376.0" height="5" rx="2.5" fill="#151E2E"/>
-        <rect class="bf" style="animation-delay:0.08s" x="434.0" y="116.0" width="114.8" height="5" rx="2.5" fill="#A78BFA"/>
+        <rect class="bf" style="animation-delay:0.08s" x="434.0" y="116.0" width="96.9" height="5" rx="2.5" fill="#A78BFA"/>
       </g><g class="row">
         <rect class="hit" x="422" y="128.0" width="402" height="28" rx="6" fill="#38BDF8"/>
-        <circle cx="439" cy="139.0" r="3.8" fill="#F87171"/>
-        <text x="450" y="142.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#E2E8F0">HTML</text>
-        <text x="810" y="142.5" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#94A3B8">5.7%  ·  82.0 KB</text>
+        <circle cx="439" cy="139.0" r="3.8" fill="#C084FC"/>
+        <text x="450" y="142.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#E2E8F0">Kotlin</text>
+        <text x="810" y="142.5" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#94A3B8">13.7%  ·  235.4 KB</text>
         <rect x="434.0" y="149.0" width="376.0" height="5" rx="2.5" fill="#151E2E"/>
-        <rect class="bf" style="animation-delay:0.16s" x="434.0" y="149.0" width="21.3" height="5" rx="2.5" fill="#F87171"/>
+        <rect class="bf" style="animation-delay:0.16s" x="434.0" y="149.0" width="51.7" height="5" rx="2.5" fill="#C084FC"/>
       </g><g class="row">
         <rect class="hit" x="422" y="161.0" width="402" height="28" rx="6" fill="#38BDF8"/>
-        <circle cx="439" cy="172.0" r="3.8" fill="#FACC15"/>
-        <text x="450" y="175.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#E2E8F0">JavaScript</text>
-        <text x="810" y="175.5" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#94A3B8">3.8%  ·  55.0 KB</text>
+        <circle cx="439" cy="172.0" r="3.8" fill="#F87171"/>
+        <text x="450" y="175.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#E2E8F0">HTML</text>
+        <text x="810" y="175.5" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#94A3B8">4.8%  ·  82.0 KB</text>
         <rect x="434.0" y="182.0" width="376.0" height="5" rx="2.5" fill="#151E2E"/>
-        <rect class="bf" style="animation-delay:0.24s" x="434.0" y="182.0" width="14.3" height="5" rx="2.5" fill="#FACC15"/>
+        <rect class="bf" style="animation-delay:0.24s" x="434.0" y="182.0" width="18.0" height="5" rx="2.5" fill="#F87171"/>
       </g><g class="row">
         <rect class="hit" x="422" y="194.0" width="402" height="28" rx="6" fill="#38BDF8"/>
-        <circle cx="439" cy="205.0" r="3.8" fill="#F472B6"/>
-        <text x="450" y="208.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#E2E8F0">CSS</text>
-        <text x="810" y="208.5" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#94A3B8">2.3%  ·  32.8 KB</text>
+        <circle cx="439" cy="205.0" r="3.8" fill="#FB923C"/>
+        <text x="450" y="208.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#E2E8F0">Rust</text>
+        <text x="810" y="208.5" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#94A3B8">3.3%  ·  55.9 KB</text>
         <rect x="434.0" y="215.0" width="376.0" height="5" rx="2.5" fill="#151E2E"/>
-        <rect class="bf" style="animation-delay:0.32s" x="434.0" y="215.0" width="8.5" height="5" rx="2.5" fill="#F472B6"/>
+        <rect class="bf" style="animation-delay:0.32s" x="434.0" y="215.0" width="12.3" height="5" rx="2.5" fill="#FB923C"/>
       </g><g class="row">
         <rect class="hit" x="422" y="227.0" width="402" height="28" rx="6" fill="#38BDF8"/>
-        <circle cx="439" cy="238.0" r="3.8" fill="#C084FC"/>
-        <text x="450" y="241.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#E2E8F0">Kotlin</text>
-        <text x="810" y="241.5" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#94A3B8">1.3%  ·  19.3 KB</text>
+        <circle cx="439" cy="238.0" r="3.8" fill="#FACC15"/>
+        <text x="450" y="241.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#E2E8F0">JavaScript</text>
+        <text x="810" y="241.5" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#94A3B8">3.2%  ·  55.0 KB</text>
         <rect x="434.0" y="248.0" width="376.0" height="5" rx="2.5" fill="#151E2E"/>
-        <rect class="bf" style="animation-delay:0.40s" x="434.0" y="248.0" width="6.0" height="5" rx="2.5" fill="#C084FC"/>
+        <rect class="bf" style="animation-delay:0.40s" x="434.0" y="248.0" width="12.1" height="5" rx="2.5" fill="#FACC15"/>
       </g>
   </g>
 
   <rect x="422.0" y="294" width="96.0" height="74" rx="10" fill="#0B1220" stroke="#1E293B" stroke-width="1"/>
       <text x="434.0" y="317" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="8.8" font-weight="600" letter-spacing="0.5" fill="#64748B">REPOS PROPIOS</text>
-      <text x="434.0" y="349" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#38BDF8">9</text><rect x="526.0" y="294" width="96.0" height="74" rx="10" fill="#0B1220" stroke="#1E293B" stroke-width="1"/>
+      <text x="434.0" y="349" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#38BDF8">10</text><rect x="526.0" y="294" width="96.0" height="74" rx="10" fill="#0B1220" stroke="#1E293B" stroke-width="1"/>
       <text x="538.0" y="317" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="8.8" font-weight="600" letter-spacing="0.5" fill="#64748B">ESTRELLAS</text>
       <text x="538.0" y="349" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#A78BFA">0</text><rect x="630.0" y="294" width="96.0" height="74" rx="10" fill="#0B1220" stroke="#1E293B" stroke-width="1"/>
       <text x="642.0" y="317" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="8.8" font-weight="600" letter-spacing="0.5" fill="#64748B">COMMITS</text>
-      <text x="642.0" y="349" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#34D399">48</text><rect x="734.0" y="294" width="96.0" height="74" rx="10" fill="#0B1220" stroke="#1E293B" stroke-width="1"/>
+      <text x="642.0" y="349" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#34D399">50</text><rect x="734.0" y="294" width="96.0" height="74" rx="10" fill="#0B1220" stroke="#1E293B" stroke-width="1"/>
       <text x="746.0" y="317" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="8.8" font-weight="600" letter-spacing="0.5" fill="#64748B">PULL REQUESTS</text>
       <text x="746.0" y="349" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#F472B6">2</text>
 </svg>
